@@ -1,2 +1,2 @@
-Created a file for branch B1
+Created a file for B1 branch
 
